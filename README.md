@@ -1,7 +1,7 @@
 # KotlinClassRoom
 
 
-class MainActivity : AppCompatActivity() {
+#### class MainActivity : AppCompatActivity() {
     private val TAG = "MainActivity"
     private lateinit var txt: TextView
     override fun onCreate(savedInstanceState: Bundle?) {
