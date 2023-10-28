@@ -1,7 +1,8 @@
 # KotlinClassRoom
 
 
-#### class MainActivity : AppCompatActivity() {
+### class MainActivity Implementation block
+
     private val TAG = "MainActivity"
     private lateinit var txt: TextView
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -73,4 +74,4 @@
         delay(3000L)
         return "This is the answer 2"
     }
-}
+
